@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Pokemon Deck</string>
+    <string name="bulbasaur_text">Bulbasaur is a small, quadruped Pokemon that has blue-green skin
+        with darker green patches. It has red eyes with white pupils and pointed, ear-like
+        structures on top of its head. Its snout is short and blunt, and it has a wide mouth.
+        A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of
+        its thick legs ends with three sharp claws. On its back is a green plant bulb, which is
+        grown from a seed planted there at birth. The bulb provides it with energy through
+        photosynthesis as well as from the nutrient-rich seeds contained within. As mentioned in
+        the anime, starter Pokemon are raised by Breeders to be distributed to new Trainers. Having
+        been domesticated from birth, Bulbasaur is regarded as both a rare and well-behaved
+        Pokemon. It is known to be extremely loyal, even after long-term abandonment. Bulbasaur has
+        also shown itself to be an excellent caretaker, even having a special technique called the
+        \&quot;Bulba-by\&quot;. To perform this technique, Bulbasaur uses its vines to pick up a young Pokemon
+        and soothingly rocks it in the air. It is found in grasslands and forests throughout the
+        Kanto region. However, due to Bulbasaur\&apos;s status as starter Pokemon, it is hard to come by
+        in the wild and generally found under the ownership of a Trainer. It has been observed that
+        a Bulbasaur\&apos;s bulb will flash blue when it is ready to evolve. If it does not want to
+        evolve, it struggles to resist the transformation. Many Bulbasaur gather every year in a
+        hidden garden in Kanto to evolve into Ivysaur in a ceremony led by a Venusaur.</string>
+    <string name="ivysaur_text">Ivysaur is a quadruped Pokemon similar to a dinosaur. It has
+        blue-green skin with darker patches. On top of its head are pointed ears with black inside, 
+        and it has narrow red eyes. It has a short, rounded snout with a wide mouth. Two pointed 
+        teeth protrude from its upper jaw. Each of its feet have three claws on them. The bulb on 
+        its back has bloomed into a large pink bud. A short brown trunk surrounded by leafy green 
+        fronds supports the bud. The weight of the plant prevents Ivysaur from standing on its hind 
+        legs and forces its legs to grow sturdy. When its flower is ready to bloom, it gives off a 
+        distinct, strong sweet-smelling aroma and starts swelling. Ivysaur will also start spending 
+        more time in sunlight in preparation for its upcoming evolution. Exposure to sunlight adds 
+        to the strength of both Ivysaur and its plant. Ivysaur\&apos;s natural habitat is plains.
+        However, it is rare, as many are in captivity.</string>
+    <string name="venusaur_text">Venusaur is a squat, quadruped Pokemon with bumpy, blue-green skin.
+        It has small, circular red eyes, a short, blunt snout, and a wide mouth with two pointed
+        teeth in the upper jaw and four in the lower jaw. On top of its head are small, pointed ears
+        with reddish pink insides. It has three clawed toes on each foot. The bud on its back has
+        bloomed in a large pink, white-spotted flower. The flower is supported by a thick, brown
+        trunk surrounded by green fronds. A female Venusaur will have a seed in the center of its
+        flower. As Mega Venusaur, the flower on its back grows larger and two smaller pink flowers
+        bloom, one on its forehead and one on its rear. The weight of the flower causes its legs to
+        become sturdier in order to support it.[1] Additional leaves with woody stems, which are
+        supported by vines, are grown around the flower. Mega Venusaur also develops dark markings
+        on its forehead below the new flower. Venusaur uses its flower to catch the sun\&apos;s rays to
+        convert them into energy, which causes the flower to take on colors that are more vibrant.
+        The flower releases a soothing scent that attracts Pokemon. This scent becomes stronger
+        after a rainy day. In the anime, Venusaur has demonstrated the ability to manipulate nature
+        and lead evolution ceremonies for Bulbasaur and Ivysaur. This Pokemon is rarely found in the
+        wild, but has been known to inhabit grasslands.</string>
+    <string name="charmander_text">Charmander is a bipedal, reptilian Pokemon with a primarily
+        orange body. Its underside from the chest down and soles are cream-colored. It has two small
+        fangs visible in its upper jaw and two smaller fangs in its lower jaw. Charmander has blue
+        eyes. Its arms and legs are short with four fingers and three clawed toes. A fire burns at
+        the tip of this Pokemon\&apos;s slender tail, and has blazed there since Charmander\&apos;s birth. The
+        flame can be used as an indication of Charmander\&apos;s health and mood, burning brightly when
+        the Pokemon is strong, weakly when it is exhausted, wavering when it is happy, and blazing
+        when it is enraged. It is said that Charmander dies if its flame goes out. However, if the
+        Pokemon is healthy, the flame will continue to burn if gets a bit wet and is said to steam
+        in the rain. Charmander can be found in hot, mountainous areas. However, it is found far
+        more often in the ownership of Trainers. As shown in Pokemon Snap, Charmander exhibits pack
+        behavior, calling others of its species if it finds food.</string>
+    <string name="charmeleon_text">Charmeleon is a bipedal, reptilian creature. It has crimson 
+        scales and a cream underside. There is a horn-like protrusion on the back of its head, and 
+        it has narrow green eyes and a long snout. It has relatively long arms with three sharp 
+        claws. Its short legs have feet with three claws and cream-colored soles. The tip of its 
+        long, powerful tail has a flame burning on it. The temperature rises to unbearable levels 
+        if Charmeleon swings its tail. Charmeleon has a vicious nature and will constantly seek out 
+        opponents. Strong opponents excite this Pokemon, causing it to spout bluish-white flames
+        that torch its surroundings. However, it will relax once it has won. It is rare in the 
+        wild, but it can be found in mountainous areas.</string>
+    <string name="charizard_text">Charmeleon is a bipedal, reptilian creature. It has crimson scales
+        and a cream underside. There is a horn-like protrusion on the back of its head, and it has
+        narrow green eyes and a long snout. It has relatively long arms with three sharp claws. Its
+        short legs have feet with three claws and cream-colored soles. The tip of its long, powerful
+        tail has a flame burning on it. The temperature rises to unbearable levels if Charmeleon
+        swings its tail. Charmeleon has a vicious nature and will constantly seek out opponents.
+        Strong opponents excite this Pokemon, causing it to spout bluish-white flames that torch its
+        surroundings. However, it will relax once it has won. It is rare in the wild, but it can be
+        found in mountainous areas.</string>
+    <string name="squirtle_text">Squirtle is a small Pokemon that resembles a light blue turtle.
+        While it typically walks on its two short legs, it has been shown to run on all fours in
+        Super Smash Bros. Brawl. It has large brown eyes and a slightly hooked upper lip. Each of
+        its hands and feet have three pointed digits. The end of its long tail curls inward. Its
+        body is encased by a tough shell that forms and hardens after birth. This shell is brown on
+        the top, pale yellow on the bottom, and has a thick white ridge between the two halves.
+        Squirtle\&apos;s shell is a useful tool. It can withdraw into the shell for protection or for
+        sleeping, and its grooved, rounded shape helps to reduce water resistance when this Pokemon
+        swims. Squirtle can spray foamy water from its mouth with great accuracy. Squirtle is scarce
+        in the wild, although it can be found around small ponds and lakes. The anime has shown that 
+        it can be found living on secluded islands with other members of its evolutionary line.
+    </string>
+    <string name="wartortle_text">Wartortle is a bipedal, indigo-blue Pokemon similar to a turtle.
+        It has brown eyes, a dark blue streak on each cheek, and two sharp teeth protruding from its
+        upper jaw. It has three clawed fingers and pointed toes. Bluish white fur covers its long
+        ears and tail. A brown shell with a pale yellow underside encases its body. A thick, white
+        rim separates the upper and lower halves of the shell. As Wartortle grows old, its tail fur
+        will darken, and it may have algae growing on its shell. The shell may also carry scars from
+        past battles. To maintain balance while swimming at high speeds, Wartortle moves its furry
+        ears and tail. It can use the fur to store air for extended underwater diving. Its tail is a
+        popular symbol of longevity, making it popular with the elderly. It hides in water when
+        hunting and emerges to surprise its prey. The anime has shown that Wartortle can be found
+        living in colonies on islands, but its preferred habitat seems to be freshwater ponds and
+        lakes.
+    </string>
+    <string name="blastoise_text">Blastoise is a large, bipedal tortoise-like Pokemon. Its body is
+        dark blue and is mostly hidden by its tough, brown shell. This shell has a pale yellow
+        underside and a white ridge encircling its arms and separating the upper and lower halves.
+        Two powerful water cannons reside in the top sides of its shell. These cannons can be
+        extended or withdrawn and can be used to assist in high-speed charges. Blastoise\&apos;s head has
+        triangular ears that are black on the inside, small brown eyes, and a cream-colored lower
+        jaw. Its arms are thick and striated with three claws on each hand. Its feet have three
+        claws on the front and one on the back. It has a stubby tail. As Mega Blastoise, it develops
+        two smaller shells over its arms, each with their own water cannon. The two cannons on its
+        back are replaced by a single, central water cannon of greater size. This cannon extends
+        forward over Mega Blastoise\&apos;s head and is said to have a blast range of over 6 miles. Small
+        ridges develop over its, now red, eyes and extend to its ears. The ears angle slightly
+        backward and there is a small point on its chin. The powerful cannons on this Pokemon\&apos;s back
+        are capable of producing water blasts that can pierce steel and concrete. Blastoise
+        deliberately makes itself heavy to withstand these powerful blasts, and it will crush its
+        opponents with its bulk. The anime has shown that Blastoise can take the role of a leader in
+        large groups of Squirtle and Wartortle. Its preferred habitat seems to be freshwater ponds
+        and lakes.
+    </string>
+
+    <string-array name="pokemon_description">
+        <item>@string/bulbasaur_text</item>
+        <item>@string/ivysaur_text</item>
+        <item>@string/venusaur_text</item>
+        <item>@string/charmander_text</item>
+        <item>@string/charmeleon_text</item>
+        <item>@string/charizard_text</item>
+        <item>@string/squirtle_text</item>
+        <item>@string/wartortle_text</item>
+        <item>@string/blastoise_text</item>
+    </string-array>
+</resources>
